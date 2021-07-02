@@ -1,0 +1,41 @@
+{
+    "name": "darkest-dark-theme",
+    "displayName": "Darkest Dark Theme",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "Darkest",
+    "keywords": [
+        "darkest",
+        "Darkest",
+        "eclipse",
+        "Eclipse",
+        "dark",
+        "Dark",
+        "dark theme",
+        "dark Theme",
+        "Dark Theme",
+        "eclipse theme",
+        "eclipse Theme",
+        "Eclipse theme",
+        "Eclipse Theme",
+        "Darkest theme",
+        "darkest theme",
+        "Darkest theme",
+        "Darkest Theme"
+    ],
+    "engines": {
+        "vscode": "1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Darkest Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Darkest Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
